@@ -3,7 +3,7 @@ Using the Best Sellers API from The New York Times,  my application (which is in
 
 **FOR TEST, ENTER THE .JSON FILE INTO YOUR URL AND CHECK FOR THE KEYS IN ORDER TO SEE THE TITLE, ISBN, AND AUTHOR.**
 
-https://api.nytimes.com/svc/books/v3/lists/best-sellers/history.json?api-key={YOUR API KEY}
+https://api.nytimes.com/svc/books/v3/lists/best-sellers/history.json?api-key= {YOUR_API_KEY}
 
 ---
 
